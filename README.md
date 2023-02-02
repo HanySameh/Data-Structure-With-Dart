@@ -5,6 +5,8 @@ same data structure in any other language, such as Dart. At the same time, the h
 level expressiveness of Dart makes it an ideal choice for learning these core concepts 
 without sacrificing too much performance.
 
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--rjxO02ux--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4qxi1gsnhuey77654qj.png)
+
 # Algorithms
 on the other hand, are a set of operations that complete a task. This can 
 be a sorting algorithm that moves data around to put it in order. Or it can be an 
