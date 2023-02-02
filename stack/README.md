@@ -1,18 +1,17 @@
 # Stack
 
-Since Stack is a collection of elements, you may have wondered about implementing
-the Iterable interface. After all, List and Set and even the keys and values of a Map
-are all iterable.
-However, a stack’s purpose is to limit the number of ways to access your data, and
-adopting interfaces such as Iterable would go against this goal by exposing all the
-elements via the iterator. In this case, less is more!
-Stacks are crucial to problems that search trees and graphs. Imagine finding your
-way through a maze. Each time you come to a decision point of left, right or straight,
-you can push all possible decisions onto your stack. When you hit a dead end, simply
-backtrack by popping from the stack and continuing until you escape or hit another
-dead end.
+The stack data structure is similar in concept to a physical 
+stack of objects. When you add an item to a stack, you place it on top of the stack. 
+When you remove an item from a stack, you always remove the top-most item. 
+Stacks are useful and also exceedingly simple. The main goal of building a stack is 
+to enforce how you access your data.
 
 ![](https://cdn.devdojo.com/images/july2021/STACKUNDERFLOW.gif)
+
+## Stack Operations
+
+- push: Add an element to the top of the stack.
+- pop: Remove the top element of the stack.
 
 ## Key Points
 
