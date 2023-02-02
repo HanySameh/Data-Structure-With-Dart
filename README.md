@@ -45,3 +45,6 @@ complex and special-purpose abstractions. Knowing more data structures than just
 the common ones gives you a wider range of tools that you can use to build your 
 apps.
   
+## References
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArLlwkqwOmfT1RjiH5kw1EwtdWDOMpSk87w&usqp=CAU)
