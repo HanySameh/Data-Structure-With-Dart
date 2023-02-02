@@ -10,7 +10,7 @@ Stacks are crucial to problems that search trees and graphs. Imagine finding you
 way through a maze. Each time you come to a decision point of left, right or straight,
 you can push all possible decisions onto your stack. When you hit a dead end, simply
 backtrack by popping from the stack and continuing until you escape or hit another
-dead end. You may want to try your hand at that sometime, but for now, work through the challenges in the following section.
+dead end.
 
 ![](https://cdn.devdojo.com/images/july2021/STACKUNDERFLOW.gif)
 
