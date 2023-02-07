@@ -5,6 +5,8 @@ A linked list is a collection of values arranged in a linear, unidirectional seq
 - Constant time insertion and removal from the front of the list.
 - Reliable performance characteristics.
 
+![](https://deepblade.com/wp-content/uploads/2022/04/ezgif.com-gif-maker-4.gif)
+
 ## Key Points
 
 - Linked lists are linear and unidirectional. As soon as you move a reference from one node to another, you can’t go back.
