@@ -1,18 +1,19 @@
 # Data structures
-are a well-studied discipline, and the concepts are language 
-agnostic; A data structure from C is functionally and conceptually identical to the 
-same data structure in any other language, such as Dart. At the same time, the high- 
-level expressiveness of Dart makes it an ideal choice for learning these core concepts 
-without sacrificing too much performance.
+A data structure is a particular way of organizing real-life data in a computer so that it can be used effectively.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--rjxO02ux--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4qxi1gsnhuey77654qj.png)
 
 # Algorithms
-on the other hand, are a set of operations that complete a task. This can 
-be a sorting algorithm that moves data around to put it in order. Or it can be an 
-algorithm that compresses an 8K picture to a manageable size. Algorithms are 
-essential to software, and many have been created to act as building blocks for useful 
-programs.
+is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines.
+
+![](https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png)
 
 ## Why should you learn data structures and algorithms?
+
+Data structures are different from the primitive data types, but they are similar to them in the sense that it holds (structures) same data into certain predefined manners.
+
+When we study data structure and algorithm, we are talking (and concern) about space (RAM) and processing (CPU) efficiency. Both processing power and memory are finite. So we need to keep things optimized so that it takes the least amount of space and processing time. You won’t want your Lambda function to be running forever, would you? You would want it to take the least amount of time and take the least amount of space, right?
+
 - Interviews: An important reason to keep your algorithmic skills up to par is to prepare for 
 interviews. Most companies have at least one or two algorithmic questions to test 
 your abilities as an engineer. A strong foundation in data structures and algorithms 
@@ -45,3 +46,6 @@ complex and special-purpose abstractions. Knowing more data structures than just
 the common ones gives you a wider range of tools that you can use to build your 
 apps.
   
+## References
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArLlwkqwOmfT1RjiH5kw1EwtdWDOMpSk87w&usqp=CAU)
